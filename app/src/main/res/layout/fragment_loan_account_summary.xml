@@ -56,7 +56,7 @@
                         android:layout_width="0dp"
                         android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                         android:textColor="@color/black"
-                        tools:text="loanAccountNumber"/>
+                        tools:text="@string/loan_account_number"/>
 
                 </LinearLayout>
 
@@ -113,7 +113,7 @@
                         android:layout_width="0dp"
                         android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                         android:textColor="@color/black"
-                        tools:text="loanPurpose"/>
+                        tools:text="@string/loan_purpose"/>
 
                 </LinearLayout>
 
@@ -181,7 +181,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="Interest"/>
+                            tools:text="@string/interest"/>
 
                     </LinearLayout>
 
@@ -233,7 +233,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="Penalties"/>
+                            tools:text="@string/penalties"/>
 
                     </LinearLayout>
 
@@ -278,7 +278,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="repayment"/>
+                            tools:text="@string/placeholder_repayment"/>
 
                     </LinearLayout>
 
@@ -304,7 +304,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="paid"/>
+                            tools:text="@string/placeholder_total_paid"/>
 
                     </LinearLayout>
 
@@ -356,7 +356,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="penalties_waived"/>
+                            tools:text="@string/placeholder_penalties_waived"/>
 
                     </LinearLayout>
 
@@ -382,7 +382,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="fees_waived"/>
+                            tools:text="@string/placeholder_fees_waived"/>
 
                     </LinearLayout>
 
@@ -428,7 +428,7 @@
                             android:layout_width="0dp"
                             android:textAppearance="@style/Base.TextAppearance.AppCompat.Small"
                             android:textColor="@color/black"
-                            tools:text="balance"/>
+                            tools:text="@string/placeholder_balance"/>
 
                     </LinearLayout>
 

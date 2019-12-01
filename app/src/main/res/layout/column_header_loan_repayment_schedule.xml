@@ -35,7 +35,7 @@
                 android:gravity="center"
                 android:textColor="@color/table_view_default_text_color"
                 android:textSize="@dimen/text_size"
-                tools:text="Header Data"/>
+                tools:text="@string/header_data"/>
 
         </LinearLayout>
 

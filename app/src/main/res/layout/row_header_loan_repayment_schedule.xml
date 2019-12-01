@@ -27,7 +27,7 @@
             android:maxLines="1"
             android:textColor="@color/table_view_default_text_color"
             android:textSize="@dimen/text_size"
-            tools:text="Row Data"/>
+            tools:text="@string/row_data"/>
 
     </LinearLayout>
 

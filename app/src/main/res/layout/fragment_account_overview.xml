@@ -34,7 +34,7 @@
                         android:textColor="@color/white"
                         android:textSize="24sp"
                         android:textStyle="bold"
-                        tools:text="244566334.555"/>
+                        tools:text="@string/random_number"/>
 
                     <TextView
                         android:gravity="center"
@@ -71,7 +71,7 @@
                         android:textColor="@color/white"
                         android:textSize="24sp"
                         android:textStyle="bold"
-                        tools:text="244566334.555"/>
+                        tools:text="@string/random_number"/>
 
                     <TextView
                         android:gravity="center"

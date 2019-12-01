@@ -152,7 +152,6 @@
     <string name="gender">Gender</string>
     <string name="no">No</string>
     <string name="found">found</string>x
-
     <string name="change_passcode">Change Passcode</string>
     <string name="change_app_passcode">Change App Passcode</string>
     <string name="change_password">Change Password</string>
@@ -160,14 +159,12 @@
     <string name="current_password">Current Password</string>
     <string name="new_password">New Password</string>
     <string name="string_changed_successfully">%1$s changed successfully</string>
-
     <string name="account_not_active_to_perform_deposit">Account should to be Active to perform a
         deposit
     </string>
     <string name="account_not_active_to_perform_transfer">Account should to be Active to perform a
         transfer
     </string>
-
     <string name="empty_savings_accounts">There is no SavingsAccount associated with you</string>
     <string name="empty_loan_accounts">There is no LoanAccount associated with you</string>
     <string name="empty_share_accounts">There is no ShareAccount associated with you</string>
@@ -178,7 +175,6 @@
     <string name="no_transaction">No Transaction</string>
     <string name="no_dob_found">No DOB found.</string>
     <string name="not_assigned_with_any_group">Not Assigned with any group</string>
-
     <string name="error_unauthorised">Invalid Username/Password</string>
     <string name="error_message_server">Error loading response from server</string>
     <string name="error_validation_blank">%1$s cannot be blank</string>
@@ -567,6 +563,29 @@
     <string name="savings_account_transaction">Savings Account Transaction</string>
     <string name="transaction_period">Transaction Period</string>
     <string name="transaction_type">Transaction Type</string>
+    <string name="str_1001">10001</string>
+    <string name="str_loan">Loan</string>
+    <string name="cell_data">Cell Data</string>
+    <string name="header_data">Header Data</string>
+    <string name="random_number">244566334.555</string>
+    <string name="placeholder_client_name">client_name</string>
+    <string name="placeholder_account_type">account_type</string>
+    <string name="placeholder_transfer_limit">transfer_limit</string>
+    <string name="placeholder_office_name">office_name</string>
+    <string name="placeholder_outstanding_balance">outstanding_balance</string>
+    <string name="placeholder_next_installement">next_installement</string>
+    <string name="placeholder_due_date">due_date</string>
+    <string name="placeholder_account_number">account_number</string>
+    <string name="placeholder_loan_type">loan_type</string>
+    <string name="placeholder_currency">currency</string>
+    <string name="loan_account_number">loanAccountNumber</string>
+    <string name="placeholder_loan_purpose">loanPurpose</string>
+    <string name="placeholder_repayment">repayment</string>
+    <string name="placeholder_total_paid">paid</string>
+    <string name="placeholder_penalties_waived">penalties_waived</string>
+    <string name="placeholder_fees_waived">fees_waived</string>
+    <string name="placeholder_balance">balance</string>
+    <string name="row_data">Row Data</string>
 
     <string-array name="languages" translatable="false">
         <item>English</item>

@@ -26,6 +26,6 @@
         android:textColor="@color/table_view_default_text_color"
         android:textSize="@dimen/text_size"
         android:visibility="visible"
-        tools:text="Cell Data"/>
+        tools:text="@string/cell_data"/>
 
 </LinearLayout>

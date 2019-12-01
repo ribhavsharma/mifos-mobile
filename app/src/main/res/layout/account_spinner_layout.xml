@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_width="match_parent"
         android:textAppearance="?android:textAppearanceMedium"
-        tools:text="10001"/>
+        tools:text="@string/str_1001"/>
 
     <TextView
         android:id="@+id/tv_account_type"
@@ -21,6 +21,6 @@
         android:layout_marginStart="@dimen/layout_padding_4dp"
         android:layout_width="match_parent"
         android:textAppearance="?android:textAppearanceSmall"
-        tools:text="Loan"/>
+        tools:text="@string/str_loan"/>
 
 </LinearLayout>
